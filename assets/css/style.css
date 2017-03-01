@@ -503,3 +503,13 @@ header, main, footer {
     height: 250px;
     }
 }
+
+
+#nicolas-picture {
+    overflow:hidden;
+    -webkit-border-radius:50px;
+    -moz-border-radius:50px;
+    border-radius:50px;
+    width:90px;
+    height:90px;
+}
